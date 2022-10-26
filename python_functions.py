@@ -9,3 +9,7 @@ def sum_to(n):
 
 def largest(numbers_list):
    return max(numbers_list)
+
+
+def occurrences(str1, str2):
+   return str1.count(str2)
