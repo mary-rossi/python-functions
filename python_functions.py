@@ -5,3 +5,7 @@ def sum_to(n):
       sum += val
 
    return sum
+
+
+def largest(numbers_list):
+   return max(numbers_list)
